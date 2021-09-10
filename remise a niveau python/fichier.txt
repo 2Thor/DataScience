@@ -1,0 +1,10 @@
+0^2 est égale à 0 
+1^2 est égale à 1 
+2^2 est égale à 4 
+3^2 est égale à 9 
+4^2 est égale à 16 
+5^2 est égale à 25 
+6^2 est égale à 36 
+7^2 est égale à 49 
+8^2 est égale à 64 
+9^2 est égale à 81 
