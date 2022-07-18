@@ -1,0 +1,1 @@
+Tuto follow = https://www.kaggle.com/code/diveki/classification-with-nlp-xgboost-and-pipelines/notebook
